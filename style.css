@@ -102,8 +102,7 @@ li a:hover {
 	transition: background-image 0.3s ease-in-out;
 }
 .style .left1:hover {
-	background: url(orangecat1.jpg) no-repeat;
-	background-size: 162px 169px;
+	background: url(orangecat1.jpg) ;
 }
 .style .left2 {
 	height: 169px;
