@@ -98,14 +98,12 @@ li a:hover {
 .style .left1 {
 	height: 169px;
 	background: url("orangecat.jpg");
-	background-repeat: no-repeat;
-	background-size: 162px 169px;/*同li.a部分，设置图片规格*/
-	background-position: center;
-	box-shadow: inset 0 0 0 2px red;
+	background-size: 162px 169px no-repeat;/*同li.a部分，设置图片规格*/
 	transition: background-image 0.3s ease-in-out;
 }
 .style .left1:hover {
 	background: url("orangecat1.jpg");
+	background-size: 162px 169px no-repeat; 
 }
 .style .left2 {
 	height: 169px;
