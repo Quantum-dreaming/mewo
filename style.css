@@ -99,7 +99,7 @@ li a:hover {
 	height: 169px;
 	background: url(orangecat.jpg) no-repeat;
 	background-size: 162px 169px;/*同li.a部分，设置图片规格*/
-	transition: backgound-image 0.3s ease-in-out;
+	transition: background-image 0.3s ease-in-out;
 }
 .style .left1:hover {
 	background: url(orangecat1.jpg) no-repeat;
@@ -113,7 +113,7 @@ li a:hover {
 	height: 137px;
 	background: url(sunlightcat.jpg) no-repeat;
 	background-size: 162px 137px;/*同li.a部分，设置图片规格*/
-	transition: backgound-image 0.3s ease-in-out;
+	transition: background-image 0.3s ease-in-out;
 }
 .style .left3:hover {
 	background: url(sunlightcat1.jpg) no-repeat;
@@ -127,7 +127,7 @@ li a:hover {
 	height: 117px;
 	background: url(carcat.jpg) no-repeat;
 	background-size: 162px 117px;/*同li.a部分，设置图片规格*/
-	transition: backgound-image 0.3s ease-in-out;
+	transition: background-image 0.3s ease-in-out;
 }
 .style .center1:hover {
 	background: url(carcat1.jpg) no-repeat;
@@ -141,7 +141,7 @@ li a:hover {
 	height: 188px;
 	background: url(onecat.jpg) no-repeat;
 	background-size: 162px 188px;/*同li.a部分，设置图片规格*/
-	transition: backgound-image 0.3s ease-in-out;
+	transition: background-image 0.3s ease-in-out;
 }
 .style .center3:hover {
 	background: url(onecat1.jpg) no-repeat;
@@ -156,7 +156,7 @@ li a:hover {
 	height: 314px;
 	background: url(shopcat.jpg) no-repeat;
 	background-size: 205px 314px;/*同li.a部分，设置图片规格*/
-	transition: backgound-image 0.3s ease-in-out;
+	transition: background-image 0.3s ease-in-out;
 }
 .style .right1:hover {
 	background: url(shopcat1.jpg) no-repeat;
