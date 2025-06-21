@@ -97,7 +97,8 @@ li a:hover {
 /*简单切换，淡入淡出要改太多框架(把图片移到html文件，用div封装)，不想动老师的代码了*/
 .style .left1 {
 	height: 169px;
-	background: url(orangecat.jpg) no-repeat;
+	background: url(orangecat.jpg);
+	background-repeat: no-repeat;
 	background-size: 162px 169px;/*同li.a部分，设置图片规格*/
 	background-position: center;
 	transition: background-image 0.3s ease-in-out;
