@@ -50,7 +50,7 @@ li a {
 	line-height: 70px;
 }
 li a:hover {
-	background: url(img/一只喵.jpg) center center;
+	background: url(一只喵.jpg) center center;
 	background-size: 119px 91px;/*通过定义背景大小来设置图片尺寸(没找到尺寸合适的图片)*/
 }
 #content {
@@ -97,12 +97,12 @@ li a:hover {
 /*简单切换，淡入淡出要改太多框架(把图片移到html文件，用div封装)，不想动老师的代码了*/
 .style .left1 {
 	height: 169px;
-	background: url(img/脊柱龙橘喵.jpg) no-repeat;
+	background: url(脊柱龙橘喵.jpg) no-repeat;
 	background-size: 162px 169px;/*同li.a部分，设置图片规格*/
 	transition: backgound-image 0.3s ease-in-out;
 }
 .style .left1:hover {
-	background: url(img/脊柱龙橘喵1.jpg) no-repeat;
+	background: url(脊柱龙橘喵1.jpg) no-repeat;
 	background-size: 162px 169px;
 }
 .style .left2 {
@@ -111,12 +111,12 @@ li a:hover {
 }
 .style .left3 {
 	height: 137px;
-	background: url(img/晒太阳的猫.jpg) no-repeat;
+	background: url(晒太阳的猫.jpg) no-repeat;
 	background-size: 162px 137px;/*同li.a部分，设置图片规格*/
 	transition: backgound-image 0.3s ease-in-out;
 }
 .style .left3:hover {
-	background: url(img/晒太阳的猫1.jpg) no-repeat;
+	background: url(晒太阳的猫1.jpg) no-repeat;
 	background-size: 162px 137px;
 }
 .style .left4 {
@@ -125,12 +125,12 @@ li a:hover {
 }
 .style .center1 {
 	height: 117px;
-	background: url(img/电动车上的猫.jpg) no-repeat;
+	background: url(电动车上的猫.jpg) no-repeat;
 	background-size: 162px 117px;/*同li.a部分，设置图片规格*/
 	transition: backgound-image 0.3s ease-in-out;
 }
 .style .center1:hover {
-	background: url(img/电动车上的猫1.jpg) no-repeat;
+	background: url(电动车上的猫1.jpg) no-repeat;
 	background-size: 162px 117px;
 }
 .style .center2 {
@@ -139,12 +139,12 @@ li a:hover {
 }
 .style .center3 {
 	height: 188px;
-	background: url(img/一坨猫.jpg) no-repeat;
+	background: url(一坨猫.jpg) no-repeat;
 	background-size: 162px 188px;/*同li.a部分，设置图片规格*/
 	transition: backgound-image 0.3s ease-in-out;
 }
 .style .center3:hover {
-	background: url(img/一坨猫1.jpg) no-repeat;
+	background: url(一坨猫1.jpg) no-repeat;
 	background-size: 162px 188px;
 }
 .style .center4 {
@@ -154,12 +154,12 @@ li a:hover {
 .style .right1 {
 	width: 205px;
 	height: 314px;
-	background: url(img/水果店的肥猫.jpg) no-repeat;
+	background: url(水果店的肥猫.jpg) no-repeat;
 	background-size: 205px 314px;/*同li.a部分，设置图片规格*/
 	transition: backgound-image 0.3s ease-in-out;
 }
 .style .right1:hover {
-	background: url(img/水果店的肥猫1.jpg) no-repeat;
+	background: url(水果店的肥猫1.jpg) no-repeat;
 	background-size: 205px 314px;
 }
 .style .right2 {
@@ -213,19 +213,19 @@ h2 {
 	border: 1px solid #dcdcba;
 }
 .pic1 {
-	background: url(img/等放假猫.jpg) center center no-repeat;
+	background: url(等放假猫.jpg) center center no-repeat;
 	background-size: 229px 226px;/*同li.a部分，设置图片规格*/
 }
 .pic2 {
-	background: url(img/思考猫.jpg) center center no-repeat;
+	background: url(思考猫.jpg) center center no-repeat;
 	background-size: 229px 226px;/*同li.a部分，设置图片规格*/
 }
 .pic3 {
-	background: url(img/拽猫.jpg) center center no-repeat;
+	background: url(拽猫.jpg) center center no-repeat;
 	background-size: 229px 226px;/*同li.a部分，设置图片规格*/
 }
 .pic4 {
-	background: url(img/等外卖猫.jpg) center center no-repeat;
+	background: url(等外卖猫.jpg) center center no-repeat;
 	background-size: 229px 226px;/*同li.a部分，设置图片规格*/
 }
 .current01 {
